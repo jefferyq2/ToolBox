@@ -1,3 +1,21 @@
+# IDE and generated files
+.vscode/*
+*/.vscode/*
+.idea/*
+*/.idea/*
+.cache/*
+*/.cache/*
+build/*
+*/build/*
+bin/*
+*/bin/*
+lib/*
+*/lib/*
+Testing/
+*/Testing/
+*.pyc
+CMakeUserPresets.json
+
 # Prerequisites
 *.d
 
